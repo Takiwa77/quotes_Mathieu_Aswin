@@ -143,4 +143,3 @@ void bmp8_applyFilter(t_bmp8 *img, float kernel[3][3]) {
 
     free(temp);
 }
-
